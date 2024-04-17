@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ChenSir @WuHanUniversityPhysics
+- 👋 Hi, I’m ChenSir @WuHanUniversity Department of Physics
 - 👀 I’m interested in Physics
 - 🌱 I’m currently learning Python
 
